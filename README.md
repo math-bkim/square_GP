@@ -11,8 +11,11 @@ $$1 = \frac{1}{\lambda_1} + \frac{1}{\lambda_2} + \cdots + \frac{1}{\lambda_\ell
 
 
 Dependency
+
 pytorch 1.13.1
+
 igraph 0.10.3
+
 numpy 1.24.1
 
 
